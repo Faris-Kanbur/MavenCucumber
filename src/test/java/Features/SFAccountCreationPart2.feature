@@ -8,6 +8,6 @@ Feature: Account creation for Salesforce Part 2
 	
 	Examples:
 	    | firstname| lastname | title     | mail                    | Telno        | companyname |  country  |
-			| faris    | kanbur   | Developer | faris38kanbur@gmail.com | 017641078716 | Botam       |  Germany  |
+			| faris    | kanbur   | Developer | farisdfnbudsfsdfsds | 0174657456 | Botam       |  Germany  |
 			
 
