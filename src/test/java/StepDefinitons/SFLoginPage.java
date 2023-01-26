@@ -40,8 +40,8 @@ public class SFLoginPage {
 //	@When("User Enter username, password and click on login button")
 //	public void user_enter_username_password_and_click_on_login_button() throws InterruptedException {
 //		Thread.sleep(4000);
-//		driver.findElement(By.xpath("//input[@id='username']")).sendKeys("faris35kanbur-a7be@force.com");
-//		driver.findElement(By.xpath("//input[@id='password']")).sendKeys("Faris5016??");
+//		driver.findElement(By.xpath("//input[@id='username']")).sendKeys("faris35k3636force.com");
+//		driver.findElement(By.xpath("//input[@id='password']")).sendKeys("Faris5034534");
 //		driver.findElement(By.id("Login")).click();
 //	}
 
